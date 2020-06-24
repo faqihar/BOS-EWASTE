@@ -7,3 +7,4 @@
 </ol>
 
 <p> Agar dapat dijalankan di browser masing-masing, diperlukan web server seperti apache dan Nginx. Untuk itu Install terlebih dahulu aplikasi XAMPP yang sudah include dengan php, perl, dan Mysql. Setelah install, pindahkan folder BOS-EWASTE ke direktori XAMPP/htdocs.</p>
+<p>Untuk selengkapnya bisa dilihat di file Documentation</p>
